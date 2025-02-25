@@ -13,7 +13,7 @@ except ImportError:
    from langchain.chains import ConversationChain
    from langchain.memory import ConversationBufferMemory
 
-
+# checking
 def initialize_chat():
    """Initializes the conversation with OpenAI and memory buffer."""
    try:
